@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="DevPro"
+    android:gravity="center"
+    android:background="#ed5e5e"
+    android:textColor="#FFF"
+    android:textSize="40sp"
+    tools:context="vn.devpro.adr22_lesson23_daluong.SplashActivity">
+
+</TextView>
